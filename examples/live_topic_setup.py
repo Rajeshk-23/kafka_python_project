@@ -1,3 +1,4 @@
+#live_topic_setup
 import argparse
 
 from kafka_zero_to_hero.common import (
